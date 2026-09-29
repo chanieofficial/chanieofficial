@@ -4,7 +4,7 @@
 
 I’m a nursing professional focused on **clinical practice, healthcare education, digital health, and technology-enabled innovation**.
 
-I’m interested in connecting **nursing, AI, data, and digital technologies** to support better healthcare education, stronger clinical practice, and more informed healthcare communities.
+I’m focused on connecting **nursing, AI, data, and digital technologies** to support better healthcare education, stronger clinical practice, and more informed healthcare communities.
 
 ### 🩺 Areas of Focus
 
