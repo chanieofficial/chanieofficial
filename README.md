@@ -22,6 +22,19 @@ I'm a nursing professional focused on connecting **clinical practice, healthcare
 A Python-based educational dashboard exploring neonatal clinical monitoring and healthcare data.
 ### 🧪 Caffeine vs Aminophylline
 A practical NICU educational project comparing caffeine and aminophylline in neonatal care.
+🩺 Today Nurse: NICU Clinical Resources
+
+Initial Newborn Assessment and NICU Triage
+
+A practical educational resource for nurses and midwives, including a downloadable NICU initial assessment and admission form.
+
+📄 Read the clinical guide:
+https://chanieofficial.wordpress.com/2026/10/11/initial-newborn-assessment-nicu-triage/
+
+📥 Download the form:
+"Download NICU Initial Assessment & Admission Form" (NICU%20INITIAL%20ASSESSMENT%20%26%20NICU%20ADMISSION%20FORM.pdf)
+
+For educational and clinical documentation support. Adapt to local protocols and facility policies.
 ## 🚀 TODAY NURSE
 **TODAY NURSE** is a healthcare education initiative focused on empowering nurses through **knowledge, technology, and data**.
 > Empowering Nursing Through Technology & Data
